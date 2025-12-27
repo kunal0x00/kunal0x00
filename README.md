@@ -1,27 +1,15 @@
 # 💫 About Me:
-📡 I’m currently working on
+📡 I’m currently working on: Building cybersecurity tools and research projects focused on application, malware, and ICS security.
 
-Building cybersecurity tools and research projects focused on application, malware, and ICS security.
+🤝 I’m looking to collaborate on :Cybersecurity research, security tools, and open-source offensive/defensive security projects.
 
-🤝 I’m looking to collaborate on
+🆘 I’m looking for help with: Advanced security research, malware analysis techniques, and AI-based detection systems.
 
-Cybersecurity research, security tools, and open-source offensive/defensive security projects.
+🌱 I’m currently learning: Advanced cybersecurity concepts, malware analysis, and industrial control system security.
 
-🆘 I’m looking for help with
+💬 Ask me about: Cybersecurity, penetration testing, malware analysis, and digital forensics.
 
-Advanced security research, malware analysis techniques, and AI-based detection systems.
-
-🌱 I’m currently learning
-
-Advanced cybersecurity concepts, malware analysis, and industrial control system security.
-
-💬 Ask me about
-
-Cybersecurity, penetration testing, malware analysis, and digital forensics.
-
-⚡ Fun fact
-
-I enjoy breaking vulnerable systems to understand how to secure them better.
+⚡ Fun fact: I enjoy breaking vulnerable systems to understand how to secure them better.
 
 
 ## 🌐 Socials:
