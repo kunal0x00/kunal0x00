@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**kunal0x00/kunal0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 I’m currently working on building cybersecurity tools and research projects focused on application, malware, and ICS security.<br>I’m looking to collaborate on cybersecurity research, security tools, and open-source offensive/defensive security projects.<br>I’m looking for help with Advanced security research, malware analysis techniques, and AI-based detection systems.<br>I’m currently learning advanced cybersecurity concepts, malware analysis, and industrial control system security.<br>Ask me about Cybersecurity, penetration testing, malware analysis, and digital forensics.<br>Fun fact I enjoy breaking vulnerable systems to understand how to secure them better.
 
 
@@ -25,9 +16,3 @@ I’m currently working on building cybersecurity tools and research projects fo
 [![](https://visitcount.itsvg.in/api?id=kunal0x00&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
